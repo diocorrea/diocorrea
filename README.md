@@ -1,6 +1,3 @@
-- 👋 Hi, I’m Dio
-- 📫 How to reach me contact@diocorrea.com
-
 ```
            _ _                                     
           | (_)                                    
