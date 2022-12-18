@@ -15,3 +15,4 @@ kono   \__,_|_|\___/ \___\___/|_|  |_|  \___|\__,_| da!
 <a href="https://linkedin.com/in/diocorrea" target="blank"><img align="center" src="https://avatars.githubusercontent.com/u/357098?s=200&v=4" alt="diocorrea" height="40" width="40" /></a>
 </p>
 
+Check out my [blog](https://blog.diocorrea.com)! 
